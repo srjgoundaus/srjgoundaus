@@ -42,7 +42,7 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 
 ## 📜 Certifications
 <div>
-    <img src="https://coursera.org/share/e505b426aa27132712dd3ac91362e7dc-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## 🚀 Projects
