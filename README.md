@@ -1,9 +1,8 @@
-
 # 👩‍💻 Hi, I'm Suraj Kumar Gound 🌟
 <a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎯 Objective
-I am a passionate cybersecurity professional with expertise in Digital Forensis,  threat intelligence, and incident response. My goal is to secure digital environments and help organizations navigate the Dynamic world of cybersecurity. With hands-on experience in tools like Autopsy, FTK, Burpsuit, Wireshark, OSINT, I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
+I am a passionate cybersecurity professional with expertise in Digital Forensics, threat intelligence, and incident response. My goal is to secure digital environments and help organizations navigate the dynamic world of cybersecurity. With hands-on experience in tools like Autopsy, FTK, Burp Suite, Wireshark, and OSINT, I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
 
 ## 🛠️ Skills
 | Skill                                         | Associated Project                                      |
@@ -13,6 +12,9 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 | Windows Registry Forensics                   | <a href="https://github.com/srjgoundaus/Windows-Registry">Windows Registry Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/srjgoundaus/Network-Monitoring">Network Analysis Project</a>|
 
+## 📊 GitHub Stats
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srjgoundaus&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srjgoundaus&layout=compact&theme=dark)  
 
 ## 🔧 Tools
 ### Network
@@ -57,14 +59,6 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
     <img src="https://img.shields.io/badge/Programming%20Languages-Bash-black?style=for-the-badge&logo=gnu-bash" alt="Bash" />
 </p>
 
-## 🔗 Key Projects
-
-- 📜 **Anti-Forensic Technique**: [Link to Repository]
-- 🛡️ **Mobile Forensics**: [Link to Repository]
-- 🤖 **Security Automation Scripts**: [Link to Repository]
-- 🌐 **Interactive Portfolio Website**: https://www.nephack.com.au
-
 ## 📫 How to Reach Me
-
 - 📧 Email: [srjgound.aus@gmail.com](mailto:srjgound.aus@gmail.com)
 - 💼 LinkedIn: [Suraj Kumar Gound](https://www.linkedin.com/in/suraj-gound)
