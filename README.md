@@ -8,10 +8,10 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 ## 🛠️ Skills
 | Skill                                         | Associated Project                                      |
 |-----------------------------------------------|-------------------------------------------------------|
-| Threat Intelligence and Analysis              | <a href="https://github.com/victoriasimonoma/Threat-Intel">Threat Intel Practitioner</a>|
-| Malware Analysis                              | <a href="https://github.com/victoriasimonoma/Malware-Analysis">Malware Analysis Portfolio</a>|
-| Windows Registry Forensics                   | <a href="https://github.com/victoriasimonoma/Windows-Registry">Windows Registry Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/victoriasimonoma/Network-Monitoring">Network Analysis Project</a>|
+| Threat Intelligence and Analysis              | <a href="https://github.com/srjgoundaus/Threat-Intel">Threat Intel Practitioner</a>|
+| Malware Analysis                              | <a href="https://github.com/srjgoundaus/Malware-Analysis">Malware Analysis Portfolio</a>|
+| Windows Registry Forensics                   | <a href="https://github.com/srjgoundaus/Windows-Registry">Windows Registry Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/srjgoundaus/Network-Monitoring">Network Analysis Project</a>|
 
 
 ## 🔧 Tools
@@ -42,10 +42,7 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 
 ## 📜 Certifications
 <div>
-    <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Threat_Intelligence_Practitioner-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Infosec_Threat_Intelligence-FF4500?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybersafe_Fellowship_Alumna-32CD32?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## 🚀 Projects
@@ -65,9 +62,9 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 - 📜 **Anti-Forensic Technique**: [Link to Repository]
 - 🛡️ **Mobile Forensics**: [Link to Repository]
 - 🤖 **Security Automation Scripts**: [Link to Repository]
-- 🌐 **Interactive Portfolio Website**: 
+- 🌐 **Interactive Portfolio Website**: nephack.com.au
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [Simonvix96@gmail.com](mailto:Simonvix96@gmail.com)
-- 💼 LinkedIn: [Victoria Simon Omaojo](https://www.linkedin.com/in/victoriasimonomaojo)
+- 📧 Email: [srjgound.aus@gmail.com](mailto:srjgound.aus@gmail.com)
+- 💼 LinkedIn: [Suraj Kumar Gound](https://www.linkedin.com/in/suraj-gound)
