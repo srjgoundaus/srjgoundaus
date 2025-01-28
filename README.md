@@ -1,17 +1,6 @@
-- 👋 Hi, I’m @srjgoundaus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-srjgoundaus/srjgoundaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 👩‍💻 Hello, I'm Victoria Simon Omaojo 🌟
-<a href="https://linkedin.com/in/victoriasimonomaojo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👩‍💻 Hi, I'm Suraj Kumar Gound 🌟
+<a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎯 Objective
 I am a passionate cybersecurity professional with expertise in Digital Forensis,  threat intelligence, and incident response. My goal is to secure digital environments and help organizations navigate the Dynamic world of cybersecurity. With hands-on experience in tools like Autopsy, FTK, Burpsuit, Wireshark, OSINT, I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
