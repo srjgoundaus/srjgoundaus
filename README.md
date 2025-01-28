@@ -46,13 +46,13 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 </div>
 
 ## 🚀 Projects
-- [Threat Intel Practitioner](https://github.com/victoriasimonoma/Threat-Intel)
-- [Malware Analysis Portfolio](https://github.com/victoriasimonoma/Malware-Analysis)
-- [Windows Registry Forensics](https://github.com/victoriasimonoma/Windows-Registry)
-- [Cybersecurity Curriculum for Beginners](https://github.com/victoriasimonoma/Cybersecurity-Training)
+- [Threat Intel Practitioner](https://github.com/srjgoundaus/Threat-Intel)
+- [Malware Analysis Portfolio](https://github.com/srjgoundaus/Malware-Analysis)
+- [Windows Registry Forensics](https://github.com/srjgoundaus/Windows-Registry)
+- [Cybersecurity Curriculum for Beginners](https://github.com/srjgoundaus/Cybersecurity-Training)
 
 ## 💻 Programming Languages
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Programming%20Languages-Python-blue?style=for-the-badge&logo=python" alt="Python" />
     <img src="https://img.shields.io/badge/Programming%20Languages-Bash-black?style=for-the-badge&logo=gnu-bash" alt="Bash" />
 </p>
@@ -62,7 +62,7 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 - 📜 **Anti-Forensic Technique**: [Link to Repository]
 - 🛡️ **Mobile Forensics**: [Link to Repository]
 - 🤖 **Security Automation Scripts**: [Link to Repository]
-- 🌐 **Interactive Portfolio Website**: nephack.com.au
+- 🌐 **Interactive Portfolio Website**: https://www.nephack.com.au
 
 ## 📫 How to Reach Me
 
