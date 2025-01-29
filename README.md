@@ -1,46 +1,4 @@
 # 👩‍💻 Hello, I'm Suraj Kumar Gound 🌟
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matrix Glitch Effect Heading</title>
-    <style>
-        @keyframes matrix-glitch {
-            0% { text-shadow: 4px 4px 0 rgba(0, 255, 0, 0.8), -4px -4px 0 rgba(0, 128, 0, 0.8); }
-            20% { text-shadow: -4px -4px 0 rgba(0, 255, 0, 0.8), 4px 4px 0 rgba(0, 128, 0, 0.8); opacity: 0.9; }
-            40% { text-shadow: 4px -4px 0 rgba(0, 255, 0, 0.8), -4px 4px 0 rgba(0, 128, 0, 0.8); }
-            60% { text-shadow: -4px 4px 0 rgba(0, 255, 0, 0.8), 4px -4px 0 rgba(0, 128, 0, 0.8); opacity: 0.9; }
-            80% { text-shadow: 2px 2px 0 rgba(0, 255, 0, 0.8), -2px -2px 0 rgba(0, 128, 0, 0.8); }
-            100% { text-shadow: -2px -2px 0 rgba(0, 255, 0, 0.8), 2px 2px 0 rgba(0, 128, 0, 0.8); opacity: 1; }
-        }
-
-        body {
-            background-color: black;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            color: #00ff00;
-            font-family: 'Consolas', 'Courier New', monospace;
-            text-transform: uppercase;
-        }
-
-        h1 {
-            font-size: 4.5rem;
-            font-weight: bold;
-            letter-spacing: 4px;
-            animation: matrix-glitch 0.6s infinite alternate;
-            border-bottom: 4px solid #00ff00;
-            padding-bottom: 12px;
-            text-shadow: 0 0 10px #00ff00, 0 0 20px #008000;
-        }
-    </style>
-</head>
-<body>
-    <h1>Suraj Kumar Gound</h1>
-</body>
-</html>
 
 <a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
