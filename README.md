@@ -66,5 +66,5 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [Simonvix96@gmail.com](mailto:Simonvix96@gmail.com)
-- 💼 LinkedIn: [Victoria Simon Omaojo](https://www.linkedin.com/in/victoriasimonomaojo)
+- 📧 Email: [srjgound.aus@gmail.com](mailto:srjgound.aus@gmail.com)
+- 💼 LinkedIn: [Suraj Kumar Gound](https://www.linkedin.com/in/suraj-gound)
