@@ -1,5 +1,5 @@
-# 👩‍💻 Hello, I'm Victoria Simon Omaojo 🌟
-<a href="https://linkedin.com/in/victoriasimonomaojo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👩‍💻 Hello, I'm Suraj Kumar Gound 🌟
+<a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎯 Objective
 I am a passionate cybersecurity professional with expertise in Digital Forensis,  threat intelligence, and incident response. My goal is to secure digital environments and help organizations navigate the Dynamic world of cybersecurity. With hands-on experience in tools like Autopsy, FTK, Burpsuit, Wireshark, OSINT, I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
@@ -7,10 +7,10 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 ## 🛠️ Skills
 | Skill                                         | Associated Project                                      |
 |-----------------------------------------------|-------------------------------------------------------|
-| Threat Intelligence and Analysis              | <a href="https://github.com/victoriasimonoma/Threat-Intel">Threat Intel Practitioner</a>|
-| Malware Analysis                              | <a href="https://github.com/victoriasimonoma/Malware-Analysis">Malware Analysis Portfolio</a>|
-| Windows Registry Forensics                   | <a href="https://github.com/victoriasimonoma/Windows-Registry">Windows Registry Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/victoriasimonoma/Network-Monitoring">Network Analysis Project</a>|
+| Threat Intelligence and Analysis              | <a href="https://github.com/srjgoundaus/Threat-Intel">Threat Intel Practitioner</a>|
+| Malware Analysis                              | <a href="https://github.com/srjgoundaus/Malware-Analysis">Malware Analysis Portfolio</a>|
+| Windows Registry Forensics                   | <a href="https://github.com/srjgoundaus/Windows-Registry">Windows Registry Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/srjgoundaus/Network-Monitoring">Network Analysis Project</a>|
 
 
 ## 🔧 Tools
@@ -41,17 +41,15 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 
 ## 📜 Certifications
 <div>
-    <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Threat_Intelligence_Practitioner-4D4D4D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Infosec_Threat_Intelligence-FF4500?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cybersafe_Fellowship_Alumna-32CD32?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Comptia Security+ : Inprogress....-4D4D4D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## 🚀 Projects
-- [Threat Intel Practitioner](https://github.com/victoriasimonoma/Threat-Intel)
-- [Malware Analysis Portfolio](https://github.com/victoriasimonoma/Malware-Analysis)
-- [Windows Registry Forensics](https://github.com/victoriasimonoma/Windows-Registry)
-- [Cybersecurity Curriculum for Beginners](https://github.com/victoriasimonoma/Cybersecurity-Training)
+- [Threat Intel Practitioner](https://github.com/srjgoundaus/Threat-Intel)
+- [Malware Analysis Portfolio](https://github.com/srjgoundaus/Malware-Analysis)
+- [Windows Registry Forensics](https://github.com/srjgoundaus/Windows-Registry)
+- [Cybersecurity Curriculum for Beginners](https://github.com/srjgoundaus/Cybersecurity-Training)
 
 ## 💻 Programming Languages
 <p align="center">
@@ -64,7 +62,7 @@ I am a passionate cybersecurity professional with expertise in Digital Forensis,
 - 📜 **Anti-Forensic Technique**: [Link to Repository]
 - 🛡️ **Mobile Forensics**: [Link to Repository]
 - 🤖 **Security Automation Scripts**: [Link to Repository]
-- 🌐 **Interactive Portfolio Website**: 
+- 🌐 **Interactive Portfolio Website**: <a href="https://www.nephack.com.au">NepHack</a>
 
 ## 📫 How to Reach Me
 
