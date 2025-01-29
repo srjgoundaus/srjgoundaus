@@ -1,5 +1,4 @@
 👨‍💻 Suraj Kumar Gound 🌐🔒
-
 "In the shadows of the digital realm, I hunt threats and secure the future."
 <a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
