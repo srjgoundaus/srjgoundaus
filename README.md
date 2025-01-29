@@ -1,5 +1,11 @@
 # 👩‍💻 Hello, I'm Suraj Kumar Gound 🌟
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrix Glitch Effect Heading</title>
+    <style>
         @keyframes matrix-glitch {
             0% { text-shadow: 4px 4px 0 rgba(0, 255, 0, 0.8), -4px -4px 0 rgba(0, 128, 0, 0.8); }
             20% { text-shadow: -4px -4px 0 rgba(0, 255, 0, 0.8), 4px 4px 0 rgba(0, 128, 0, 0.8); opacity: 0.9; }
@@ -33,6 +39,9 @@
 </head>
 <body>
     <h1>Suraj Kumar Gound</h1>
+</body>
+</html>
+
 <a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🎯 Objective
