@@ -1,70 +1,72 @@
-👨‍💻 Suraj Kumar Gound 🌐🔒
-"In the shadows of the digital realm, I hunt threats and secure the future."
-<a href="https://www.linkedin.com/in/suraj-gound"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👩‍💻 Hello, I'm Victoria Simon Omaojo 🌟
+<a href="https://linkedin.com/in/victoriasimonomaojo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🎯 Mission
-I am a cybersecurity operative specializing in Digital Forensics, Threat Intelligence, and Incident Response. My mission is to dismantle malicious actors, secure digital ecosystems, and protect organizations from the ever-evolving threat landscape. With a toolkit that includes Autopsy, FTK, Burp Suite, Wireshark, and OSINT, I thrive in the chaos of cyber warfare.
+## 🎯 Objective
+I am a passionate cybersecurity professional with expertise in Digital Forensis,  threat intelligence, and incident response. My goal is to secure digital environments and help organizations navigate the Dynamic world of cybersecurity. With hands-on experience in tools like Autopsy, FTK, Burpsuit, Wireshark, OSINT, I am eager to contribute to a team where I can make a tangible impact and continue to grow my skills.
 
-🛠️ Arsenal of Skills
-Skill	Associated Project
-Threat Intelligence & Analysis	Threat Intel Practitioner
-Malware Analysis	Malware Analysis Portfolio
-Windows Registry Forensics	Windows Registry Project
-Network Traffic Analysis	Network Analysis Project
-📊 Battle Stats
-Suraj's GitHub Stats
-Top Languages
+## 🛠️ Skills
+| Skill                                         | Associated Project                                      |
+|-----------------------------------------------|-------------------------------------------------------|
+| Threat Intelligence and Analysis              | <a href="https://github.com/victoriasimonoma/Threat-Intel">Threat Intel Practitioner</a>|
+| Malware Analysis                              | <a href="https://github.com/victoriasimonoma/Malware-Analysis">Malware Analysis Portfolio</a>|
+| Windows Registry Forensics                   | <a href="https://github.com/victoriasimonoma/Windows-Registry">Windows Registry Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/victoriasimonoma/Network-Monitoring">Network Analysis Project</a>|
 
-🔧 Tools of the Trade
-Network Recon
-<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" /> </div>
-Endpoint Defense
-<div> <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-CrowdStrike-FF4500?&style=for-the-badge&logoColor=white" /> </div>
-SIEM & Log Analysis
-<div> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
-Forensic Toolkit
-<div> <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-FTK-FF4500?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Volatility-4B0082?&style=for-the-badge&logoColor=white" /> </div>
-📜 Certifications
-Google Cybersecurity Professional (Click to view certificate)
 
-CompTIA Security+ (Optional: Add if you have it)
+## 🔧 Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
 
-Certified Ethical Hacker (CEH) (Optional: Add if you have it)
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
 
-🚀 Projects
-Threat Intel Practitioner
-GitHub
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-Uncovered and neutralized advanced persistent threats (APTs) targeting critical infrastructure.
+### Forensic Tools
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Registry_Explorer-4B0082?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Regedit-008000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-FTK-FF4500?&style=for-the-badge&logoColor=white" />
+</div>
 
-Developed actionable intelligence reports to mitigate future attacks.
+## 📜 Certifications
+<div>
+    <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Threat_Intelligence_Practitioner-4D4D4D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Infosec_Threat_Intelligence-FF4500?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersafe_Fellowship_Alumna-32CD32?&style=for-the-badge&logoColor=white" />
+</div>
 
-Malware Analysis Portfolio
-GitHub
+## 🚀 Projects
+- [Threat Intel Practitioner](https://github.com/victoriasimonoma/Threat-Intel)
+- [Malware Analysis Portfolio](https://github.com/victoriasimonoma/Malware-Analysis)
+- [Windows Registry Forensics](https://github.com/victoriasimonoma/Windows-Registry)
+- [Cybersecurity Curriculum for Beginners](https://github.com/victoriasimonoma/Cybersecurity-Training)
 
-Dissected and reverse-engineered malware to identify attack vectors and IOCs.
+## 💻 Programming Languages
+<p align="center">
+    <img src="https://img.shields.io/badge/Programming%20Languages-Python-blue?style=for-the-badge&logo=python" alt="Python" />
+    <img src="https://img.shields.io/badge/Programming%20Languages-Bash-black?style=for-the-badge&logo=gnu-bash" alt="Bash" />
+</p>
 
-Created detailed analysis reports for incident response teams.
+## 🔗 Key Projects
 
-Windows Registry Forensics
-GitHub
+- 📜 **Anti-Forensic Technique**: [Link to Repository]
+- 🛡️ **Mobile Forensics**: [Link to Repository]
+- 🤖 **Security Automation Scripts**: [Link to Repository]
+- 🌐 **Interactive Portfolio Website**: 
 
-Extracted critical evidence from compromised systems to trace attacker footprints.
+## 📫 How to Reach Me
 
-Utilized tools like Autopsy and FTK for forensic analysis.
-
-Cybersecurity Curriculum for Beginners
-GitHub
-
-Designed and delivered training programs to educate aspiring cybersecurity professionals.
-
-Covered topics like threat intelligence, malware analysis, and network security.
-
-💻 Code of the Shadows
-<p align="left"> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" /> </p>
-📫 Contact the Operative
-📧 Email: srjgound.aus@gmail.com
-
-💼 LinkedIn: Suraj Kumar Gound
-
-"In a world of ones and zeros, I am the firewall between chaos and order."
+- 📧 Email: [Simonvix96@gmail.com](mailto:Simonvix96@gmail.com)
+- 💼 LinkedIn: [Victoria Simon Omaojo](https://www.linkedin.com/in/victoriasimonomaojo)
