@@ -92,5 +92,3 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 
 📧 Email: [srjgound.aus@gmail.com](mailto:srjgound.aus@gmail.com)  
 💼 LinkedIn: [Suraj Kumar Gound](https://www.linkedin.com/in/suraj-gound)  
-🌐 Website: [NepHack](https://www.nephack.com.au)  
-
