@@ -1,4 +1,4 @@
-# 👨‍💻 Suraj Kumar Gound – Cybersecurity & Digital Forensics Enthusiast 🔐  
+# 👨‍💻Suraj Kumar Gound – Cybersecurity & Digital Forensics Enthusiast🔐  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-gound) [![Portfolio](https://img.shields.io/badge/-Visit_My_Portfolio-black?&style=for-the-badge&logo=github&logoColor=white)](https://www.nephack.com.au)  
 
