@@ -57,10 +57,11 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 
 ## 📜 Certifications  
 <div>
-    <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
+        <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
+    </a>
     <img src="https://img.shields.io/badge/-Comptia Security+ : Inprogress....-4D4D4D?&style=for-the-badge&logoColor=white" />
 </div>
-
 
 ## 🚀 Projects  
 
@@ -79,12 +80,12 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 
 ## 🔗 More Notable Projects  
 
-| 📌 Project Title                              | 🔗 Repository Link |
+| 📌 Project Title                              |  Repository Link |
 |-----------------------------------------------|------------------------------------------------|
-| **Anti-Forensics Techniques**                | [🔗 Link](https://github.com/srjgoundaus/Anti-Forensics) |
-| **Mobile Forensics Investigations**          | [🔗 Link](https://github.com/srjgoundaus/Mobile-Forensics) |
-| **Security Automation Scripts**              | [🔗 Link](https://github.com/srjgoundaus/Security-Automation) |
-| **Interactive Portfolio Website** (NepHack)  | [🌐 Visit](https://www.nephack.com.au) |
+| **Anti-Forensics Techniques**                | (https://github.com/srjgoundaus/Anti-Forensics) |
+| **Mobile Forensics Investigations**          | (https://github.com/srjgoundaus/Mobile-Forensics) |
+| **Security Automation Scripts**              | (https://github.com/srjgoundaus/Security-Automation) |
+| **Interactive Portfolio Website** (NepHack)  | 🌐(https://www.nephack.com.au) |
 
 ---
 
