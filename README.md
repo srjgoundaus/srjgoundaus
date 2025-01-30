@@ -48,21 +48,16 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 [![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)]()  
 
 ### 📊 **SIEM & Threat Hunting**  
-[![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)]()  
-[![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)]()  
+[![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)]()  [![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)]()  
 
 ### 🕵️‍♂️ **Digital Forensics & OSINT**  
-[![Autopsy](https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white)]()  
-[![FTK](https://img.shields.io/badge/-FTK-FF4500?&style=for-the-badge&logoColor=white)]()  
-[![Windows Registry Explorer](https://img.shields.io/badge/-Windows_Registry_Explorer-4B0082?&style=for-the-badge&logoColor=white)]()  
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)]()  
+[![Autopsy](https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white)]()  [![FTK](https://img.shields.io/badge/-FTK-FF4500?&style=for-the-badge&logoColor=white)]()  [![Windows Registry Explorer](https://img.shields.io/badge/-Windows_Registry_Explorer-4B0082?&style=for-the-badge&logoColor=white)]()   =[![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)]()  
 
 ---
 
 ## 📜 Certifications  
 
-[![Google Cybersecurity Professional](https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white)]()  
-[![Comptia Security+](https://img.shields.io/badge/-Comptia Security+ : Inprogress....-4D4D4D?&style=for-the-badge&logoColor=white)]()  
+[![Google Cybersecurity Professional](https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white)]()  [![Comptia Security+](https://img.shields.io/badge/-Comptia Security+ : Inprogress....-4D4D4D?&style=for-the-badge&logoColor=white)]()  
 
 ---
 
@@ -77,8 +72,7 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 
 ## 💻 Programming & Scripting  
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)  ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)  
 
 ---
 
@@ -99,16 +93,3 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 💼 LinkedIn: [Suraj Kumar Gound](https://www.linkedin.com/in/suraj-gound)  
 🌐 Website: [NepHack](https://www.nephack.com.au)  
 
----
-
-### 🚀 *Open to cybersecurity roles in SOC, threat intelligence, or digital forensics. Let's secure the digital world together!* 🔥  
-
----
-
-### 🔥 **Final Touches & Strategy**  
-
-✅ **Optimized for recruiters & ATS**: Added cybersecurity keywords for visibility.  
-✅ **Well-structured with sections**: Ensures readability & quick scanning.  
-✅ **Professional yet engaging**: Balances expertise & personality.  
-
-This README will significantly boost your profile’s appeal. Let me know if you'd like any final tweaks! 🚀🔥
