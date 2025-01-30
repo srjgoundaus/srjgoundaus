@@ -57,7 +57,8 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 
 ## 📜 Certifications  
 <div>
-[![Google Cybersecurity Professional](https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white)]()  [![Comptia Security+](https://img.shields.io/badge/-Comptia Security+ : Inprogress....-4D4D4D?&style=for-the-badge&logoColor=white)]()  
+    <img src="https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Comptia Security+ : Inprogress....-4D4D4D?&style=for-the-badge&logoColor=white" />
 </div>
 ---
 
