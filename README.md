@@ -51,7 +51,7 @@ Cybersecurity professional specializing in **digital forensics, threat intellige
 [![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)]()  [![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)]()  
 
 ### 🕵️‍♂️ **Digital Forensics & OSINT**  
-[![Autopsy](https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white)]()  [![FTK](https://img.shields.io/badge/-FTK-FF4500?&style=for-the-badge&logoColor=white)]()  [![Windows Registry Explorer](https://img.shields.io/badge/-Windows_Registry_Explorer-4B0082?&style=for-the-badge&logoColor=white)]()   =[![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)]()  
+[![Autopsy](https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logoColor=white)]()  [![FTK](https://img.shields.io/badge/-FTK-FF4500?&style=for-the-badge&logoColor=white)]()  [![Windows Registry Explorer](https://img.shields.io/badge/-Windows_Registry_Explorer-4B0082?&style=for-the-badge&logoColor=white)]()  [![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)]()  
 
 ---
 
