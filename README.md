@@ -27,9 +27,9 @@ I’m a Cybersecurity Visionary & Forensics Specialist on a mission to defend th
 
 ## 🏆 Key Achievements
 
-📺 Founded NepHack YouTube channel, creating hands-on tutorials on ethical hacking and cybersecurity for thousands of learners.
-🌐 Built and maintain NepHack.com.au, an interactive platform for real-world hacking projects and cybersecurity training.
-🔍 Delivered practical cyber forensics and threat intelligence projects used in learning and simulations.
+- 📺 Founded NepHack YouTube channel, creating hands-on tutorials on ethical hacking and cybersecurity for thousands of learners.
+- 🌐 Built and maintain NepHack.com.au, an interactive platform for real-world hacking projects and cybersecurity training.
+- 🔍 Delivered practical cyber forensics and threat intelligence projects used in learning and simulations.
 
 ## 🛠️ Skills & Projects
 
