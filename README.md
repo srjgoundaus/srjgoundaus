@@ -2,7 +2,7 @@
 #  Cybersecurity Student | Creator of NepHack | Real-world hacking & forensics projects
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-gound)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nephack)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nephackaus)
 [![Website](https://img.shields.io/badge/-Nephack.com.au-000000?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nephack.com.au)
 [![GitHub](https://img.shields.io/badge/-Visit_My_GitHub_Profile-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/srjgoundaus)
 
