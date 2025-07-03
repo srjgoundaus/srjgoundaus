@@ -12,9 +12,17 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Cybersecurity professional** with expertise in **Digital Forensics, Threat Intelligence, and Incident Response (DFIR)**. With a strong commitment to securing digital infrastructures and uncovering cyber threats, I bring hands-on experience in forensic tools and a strategic mindset for cyber defense.
+I’m a Cybersecurity Visionary & Forensics Specialist on a mission to defend the digital future. As the founder of NepHack (📺 YouTube & 🌐 nephack.com.au), I’ve built a hands-on learning ecosystem that merges real-world cyber threats with next-gen defensive solutions.
 
-🔍 I work extensively with tools like **Autopsy, FTK, Burp Suite, Wireshark**, and various **OSINT frameworks** to investigate incidents and uncover critical evidence.
+🔐 What I Bring to the Table
+
+Real-World Hacking & Incident Response projects built in offensive and defensive labs
+
+Advanced proficiency in Digital Forensics, Threat Intelligence, and SIEM platforms (Splunk, ELK)
+
+Automation-first mindset: building Python/Bash tools for malware detection, packet analysis, and forensic triage
+
+Documented expertise in Reverse Engineering, Network Traffic Analysis, and Anti-Forensics
 
 ### 🔐 Focus Areas:
 - Digital Forensics & Incident Response (DFIR)  
