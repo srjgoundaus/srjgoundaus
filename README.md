@@ -69,8 +69,9 @@ Documented expertise in Reverse Engineering, Network Traffic Analysis, and Anti-
 
 ## 📜 Certifications
 
-[![Google Cybersecurity Professional](https://img.shields.io/badge/-Google Cybersecurity Professional-000080?&style=for-the-badge&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)  
-![CompTIA Security+ (In Progress)](https://img.shields.io/badge/-CompTIA_Security+:_In_Progress...-4D4D4D?&style=for-the-badge&logoColor=white)
+[![Google Cybersecurity Professional](https://img.shields.io/badge/-Google_Cybersecurity_Professional-000080?&style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)  
+[![CompTIA Security+ (In Progress)](https://img.shields.io/badge/-CompTIA_Security+_In_Progress-4D4D4D?&style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
 
 ## 🚀 Notable Projects
 
