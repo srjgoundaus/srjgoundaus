@@ -27,10 +27,9 @@ I’m a Cybersecurity Visionary & Forensics Specialist on a mission to defend th
 
 ## 🏆 Key Achievements
 
-- 🧠 Built an **AI-driven malware detection model** that cut false positives by 30%.  
-- 🐞 Analyzed and documented **zero-day vulnerabilities** in controlled lab settings.  
-- 🔍 Recovered **critical forensic evidence** during real-world investigation simulations.  
-- 📚 Developed a **cybersecurity curriculum** empowering beginners to break into the field.
+📺 Founded NepHack YouTube channel, creating hands-on tutorials on ethical hacking and cybersecurity for thousands of learners.
+🌐 Built and maintain NepHack.com.au, an interactive platform for real-world hacking projects and cybersecurity training.
+🔍 Delivered practical cyber forensics and threat intelligence projects used in learning and simulations.
 
 ## 🛠️ Skills & Projects
 
