@@ -58,7 +58,7 @@ I’m a Cybersecurity Visionary & Forensics Specialist on a mission to defend th
 ## 📜 Certifications
 
 [![Google Cybersecurity Professional](https://img.shields.io/badge/-Google_Cybersecurity_Professional-000080?&style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)  
-[![Google Cloud Cybersecurity Professional](https://img.shields.io/badge/-Google_Cloud_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/cloud-security-engineer)  
+[![Google Cloud Cybersecurity Professional](https://img.shields.io/badge/-Google_Cloud_Cybersecurity_Professional-1A73E8?&style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/certification/cloud-security-engineer)  
 [![CompTIA Security+ (In Progress)](https://img.shields.io/badge/-CompTIA_Security+_In_Progress-4D4D4D?&style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 
 
